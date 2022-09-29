@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('../fonts/Pixel.ttf');
+}
+
